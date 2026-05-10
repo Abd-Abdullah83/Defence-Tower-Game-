@@ -1,6 +1,15 @@
 <div align="center">
 
 <!-- ═══════════════════════════  BANNER SVG  ═══════════════════════════ -->
+<!--
+  NOTE: The full animated game-scene banner lives in banner.svg.
+  GitHub renders SVGs from <img> tags (not <object>/<embed>).
+  Inline SVG below is the fallback; use the img tag below for the rich banner.
+-->
+
+<!-- ✅ Use this in your README for the animated banner: -->
+<!-- <img src="banner.svg" alt="Tower Defense Banner" width="900"/> -->
+
 <svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -797,6 +806,73 @@ Defence-Tower-Game/
 
 ---
 
+## 👨‍💻 About the Author
+
+<div align="center">
+
+<svg width="720" height="170" viewBox="0 0 720 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712"/><stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="aboutLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4ade80" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#4ade80"/>
+      <stop offset="70%"  stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#f97316" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="170" rx="14" fill="url(#aboutBg)" stroke="#1e293b" stroke-width="1.5"/>
+  <!-- Terminal dots -->
+  <circle cx="20" cy="18" r="5" fill="#ef4444" opacity="0.8"/>
+  <circle cx="34" cy="18" r="5" fill="#facc15" opacity="0.8"/>
+  <circle cx="48" cy="18" r="5" fill="#4ade80" opacity="0.8"/>
+  <text x="62" y="22" font-family="'Courier New', monospace" font-size="9" fill="#374151">about-author.txt</text>
+  <line x1="10" y1="30" x2="710" y2="30" stroke="#1e293b" stroke-width="1"/>
+  <!-- Avatar placeholder -->
+  <circle cx="55" cy="90" r="32" fill="#1e293b" stroke="#4ade80" stroke-width="2"/>
+  <text x="55" y="98" text-anchor="middle" font-family="Arial" font-size="28">🧑‍💻</text>
+  <!-- Name / title -->
+  <text x="105" y="58" font-family="'Segoe UI', Arial" font-size="18" font-weight="bold" fill="#f8fafc">Abdullah Tahir</text>
+  <text x="105" y="76" font-family="'Courier New', monospace" font-size="11" fill="#4ade80">BS Data Science · FAST NUCES Lahore  (2025–2029)</text>
+  <!-- Description -->
+  <foreignObject x="105" y="84" width="600" height="60">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p style="font-family:Arial;font-size:11px;color:#94a3b8;margin:0;line-height:1.5">
+        Building complex systems from scratch — chess engines with Minimax AI, memory-managed simulators, 
+        full-stack web platforms, and this Tower Defense game. 
+        Certified in AI, Data Analytics, Cybersecurity &amp; Entrepreneurship.
+      </p>
+    </body>
+  </foreignObject>
+  <!-- Social link badges -->
+  <!-- GitHub -->
+  <rect x="105" y="145" width="110" height="18" rx="4" fill="#24292e"/>
+  <text x="115" y="158" font-family="'Courier New', monospace" font-size="10" fill="#fff">⬡ ABD-ABDULLAH83</text>
+  <!-- LinkedIn -->
+  <rect x="222" y="145" width="148" height="18" rx="4" fill="#0a66c2"/>
+  <text x="232" y="158" font-family="'Courier New', monospace" font-size="10" fill="#fff">in ABDULLAH-TAHIR-DS</text>
+  <!-- Portfolio -->
+  <rect x="377" y="145" width="170" height="18" rx="4" fill="#4ade80"/>
+  <text x="387" y="158" font-family="'Courier New', monospace" font-size="10" fill="#052e16">🌐 ABD-ABDULLAH83.GITHUB.IO</text>
+  <!-- Fiverr -->
+  <rect x="554" y="145" width="120" height="18" rx="4" fill="#1dbf73"/>
+  <text x="564" y="158" font-family="'Courier New', monospace" font-size="10" fill="#fff">fiverr ABDULLAHT_143</text>
+  <!-- Bottom line -->
+  <line x1="10" y1="166" x2="710" y2="166" stroke="url(#aboutLine)" stroke-width="1"/>
+</svg>
+
+</div>
+
+| 🔗 Link | Details |
+|--------|---------|
+| **GitHub** | [Abd-Abdullah83](https://github.com/Abd-Abdullah83) |
+| **Portfolio** | [abd-abdullah83.github.io](https://abd-abdullah83.github.io) |
+| **LinkedIn** | [abdullah-tahir-ds](https://linkedin.com/in/abdullah-tahir-ds) |
+| **Fiverr** | [abdullaht_143](https://fiverr.com/abdullaht_143) |
+
+---
+
 <div align="center">
 
 <!-- Footer SVG -->
@@ -821,6 +897,8 @@ Defence-Tower-Game/
 
 <br/>
 
-*Made with ❤️ using C++ and SFML*
+*Made with ❤️ in Pakistan 🇵🇰 · © 2026 Abdullah Tahir*
+
+⭐ **If you found this project useful, drop a star!**
 
 </div>
