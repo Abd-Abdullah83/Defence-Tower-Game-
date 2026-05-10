@@ -1,0 +1,39 @@
+<svg width="860" height="90" viewBox="0 0 860 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050510"/>
+      <stop offset="100%" stop-color="#050510"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="90" rx="12" fill="url(#bg)"/>
+
+  <!-- Wave 1 -->
+  <rect x="12" y="14" width="152" height="62" rx="8" fill="#14532d" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="88" y="38" text-anchor="middle" font-family="'Trebuchet MS',Arial" font-size="13" font-weight="bold" fill="#4ade80">Wave 1</text>
+  <text x="88" y="56" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#86efac">BasicEnemy × 8</text>
+  <text x="88" y="70" text-anchor="middle" font-family="Arial" font-size="9" fill="#4ade80">★☆☆☆☆</text>
+
+  <!-- Wave 2 -->
+  <rect x="176" y="14" width="152" height="62" rx="8" fill="#1e3a5f" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="252" y="38" text-anchor="middle" font-family="'Trebuchet MS',Arial" font-size="13" font-weight="bold" fill="#60a5fa">Wave 2</text>
+  <text x="252" y="56" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#93c5fd">Basic + Fast × 11</text>
+  <text x="252" y="70" text-anchor="middle" font-family="Arial" font-size="9" fill="#60a5fa">★★☆☆☆</text>
+
+  <!-- Wave 3 -->
+  <rect x="340" y="14" width="152" height="62" rx="8" fill="#3b0764" stroke="#c084fc" stroke-width="1.5"/>
+  <text x="416" y="38" text-anchor="middle" font-family="'Trebuchet MS',Arial" font-size="13" font-weight="bold" fill="#c084fc">Wave 3</text>
+  <text x="416" y="56" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#ddd6fe">Fast + Flying × 14</text>
+  <text x="416" y="70" text-anchor="middle" font-family="Arial" font-size="9" fill="#c084fc">★★★☆☆</text>
+
+  <!-- Wave 4 -->
+  <rect x="504" y="14" width="152" height="62" rx="8" fill="#451a03" stroke="#fb923c" stroke-width="1.5"/>
+  <text x="580" y="38" text-anchor="middle" font-family="'Trebuchet MS',Arial" font-size="13" font-weight="bold" fill="#fb923c">Wave 4</text>
+  <text x="580" y="56" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#fdba74">TankEnemy × 17</text>
+  <text x="580" y="70" text-anchor="middle" font-family="Arial" font-size="9" fill="#fb923c">★★★★☆</text>
+
+  <!-- Wave 5 BOSS -->
+  <rect x="668" y="8" width="180" height="74" rx="8" fill="#7f1d1d" stroke="#f87171" stroke-width="2.5"/>
+  <text x="758" y="34" text-anchor="middle" font-family="'Trebuchet MS',Arial" font-size="14" font-weight="bold" fill="#fca5a5">⚔ Wave 5  BOSS</text>
+  <text x="758" y="52" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#fecaca">Fast · Tank · Shielded × 20</text>
+  <text x="758" y="68" text-anchor="middle" font-family="Arial" font-size="9" fill="#f87171">★★★★★</text>
+</svg>
