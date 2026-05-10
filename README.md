@@ -1,14 +1,8 @@
 <div align="center">
 
-<!-- ═══════════════════════════  BANNER SVG  ═══════════════════════════ -->
-<!--
-  NOTE: The full animated game-scene banner lives in banner.svg.
-  GitHub renders SVGs from <img> tags (not <object>/<embed>).
-  Inline SVG below is the fallback; use the img tag below for the rich banner.
--->
-
-<!-- ✅ Use this in your README for the animated banner: -->
-<!-- <img src="banner.svg" alt="Tower Defense Banner" width="900"/> -->
+<div align="center">
+  <img src="banner.svg" alt="Tower Defense Banner" width="900"/>
+</div>
 
 <svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
