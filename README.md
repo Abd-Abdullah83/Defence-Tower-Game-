@@ -23,7 +23,7 @@
 
 | | Section |
 |---|---------|
-| 🎮 | [Game Overview](#-game-overview) |
+| 🎮 | [Game !Overview](#-game-overview) |
 | ✨ | [Features](#-features) |
 | 🏛️ | [OOP Architecture](#%EF%B8%8F-oop-architecture) |
 | 👾 | [Enemy Types](#-enemy-types) |
