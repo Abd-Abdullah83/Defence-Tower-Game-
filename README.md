@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════
-     BANNER  →  paste your banner.svg here
-     (file: svg/banner.svg)
-═══════════════════════════════════════════ -->
 <img src="svg/banner.svg" alt="Tower Defense Banner" width="900"/>
 
 <br/>
