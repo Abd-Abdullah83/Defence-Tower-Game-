@@ -115,6 +115,7 @@ Built as an OOP course project demonstrating **inheritance**, **runtime polymorp
 ---
 
 ## 💰 Economy & Waves
+
 <div align="center">
 <img src="svg/waves.svg" alt="Wave Progression" width="860"/>
 </div>
