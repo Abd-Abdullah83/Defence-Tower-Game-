@@ -115,11 +115,6 @@ Built as an OOP course project demonstrating **inheritance**, **runtime polymorp
 ---
 
 ## 💰 Economy & Waves
-
-<!-- ═══════════════════════════════════════════
-     WAVE BAR  →  paste your waves.svg here
-     (file: svg/waves.svg)
-═══════════════════════════════════════════ -->
 <div align="center">
 <img src="svg/waves.svg" alt="Wave Progression" width="860"/>
 </div>
