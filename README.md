@@ -57,10 +57,6 @@ Built as an OOP course project demonstrating **inheritance**, **runtime polymorp
 
 ## 🏛️ OOP Architecture
 
-<!-- ═══════════════════════════════════════════
-     OOP DIAGRAM  →  paste your oop-diagram.svg here
-     (file: svg/oop-diagram.svg)
-═══════════════════════════════════════════ -->
 <div align="center">
 <img src="svg/oop-diagram.svg" alt="OOP Class Hierarchy" width="860"/>
 </div>
